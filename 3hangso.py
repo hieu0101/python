@@ -1,0 +1,10 @@
+print (5+3)
+print (9-1)
+print (4*2)
+print(16/2)
+print(2**3)
+print (16%2)
+print("-------------------------")
+a,b,c=17,7,2003
+print (" ngày sinh bạn ý là ngày:" ,a ," tháng:",b, " năm :",c)
+print ( " xinh quá trời xinhhh")
